@@ -14,7 +14,7 @@
   <body>
     <div id="page">
       <h1><a class="chunk" href="http://ourprivacy.org.au">Protect Our Privacy</a></h1>
-      <h2><span class="chunk">National Day of Action &mdash; Saturday, July 6</span></h2>
+      <h2><span class="chunk">National Day of Action &mdash; Saturday, 6 July, 2013</span></h2>
       <div class="box warning">
         <p class="background"> 
           <span class="chunk">[something about NSA metadata etc]</span>
@@ -38,6 +38,12 @@
             <input type="submit" value="Subscribe!">
           </form>
         </p>
+      </div>
+      <div class="box supporters">
+        <h3><span class='chunk'>Supporters</span></h3>
+        <ul>
+          <li>Pirate Party Australia</li>
+        </ul>
       </div>
     </div>
   </body>
