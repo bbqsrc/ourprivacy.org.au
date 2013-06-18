@@ -47,8 +47,10 @@
             <input type="hidden" name="list" value="ourprivacy">
             <input type="hidden" name="f" value="subscribe">
             <label style="display: none" for="email">Email</label>
-            <input type="email" name="email" id="email" placeholder="email@address.com"> 
-            <input type="submit" class='btn green' value="Subscribe!">
+            <div class="center">
+              <input type="email" name="email" id="email" placeholder="email@address.com"> 
+              <input type="submit" class='btn green' value="Subscribe!">
+            </div>
           </form>
         </p>
       </div>
