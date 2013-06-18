@@ -17,26 +17,31 @@
       <h2><span class="chunk">National Day of Action &mdash; Saturday, 6 July, 2013</span></h2>
       <div class="box warning">
         <h3><span class="chunk">Why is this all about?</span></h3>
-        <p class="background"> 
-          <span class="chunk">With the recent NSA and PRISM issue hitting the headlines, we've finally had enough of dragnet surveillance and unjust incursions into the privacy of innocent citizens of Australia. It's time we stood up for our right to privacy.</span>
+        <p> 
+          <span class="chunk">Over the last few weeks the scandals and revelations have kept coming. As the scale of the United States' secret surveillance apparatus is slowly being revealed to the world. What we see now is a dragnet spying operation targeting everyone. You, your family, your friends, community groups, religious organisation, activists and political parties from all over the world.</span>
         </p>
-        <p class="background"> 
-          <span class="chunk">Actions are being planned all around the country for <strong>July 6</strong>. Get involved!</span>
+
+        <p> 
+          <span class="chunk">Privacy is still a fundamental human right in the information age. It protects our dignity from those who would wish us harm and prevents the state from intruding into our lives. Privacy gives us the freedom to live our lives the way we want to and we need to defend it!</span>
+        </p>
+
+        <p>
+          <span class="chunk">Actions are being planned on <strong>July 6</strong> all around Australia. Get involved!</span>
         </p>
       </div>
       
       <div class="box success">
         <h3><span class="chunk">Events in your area</span></h3>
-        <p class="events">
-          <span class="chunk">So far events have been planned in:</span>
-        </p>
         <ul class="chunk">
           <li><span>Sydney</span></li>
           <li><span>Melbourne</span></li>
           <li><span>Brisbane</span></li>
         </ul>
+        <p class="events">
+          <span class="chunk">More information will be available soon.</span>
+        </p>
 
-        <p><span class="chunk">Want to see action in your city? See how you can get in touch below.</span></p>
+        <p><span class="chunk">Want to see action in your city? Join the list below and send us an email.</span></p>
       </div>
 
       <div class="box info">
