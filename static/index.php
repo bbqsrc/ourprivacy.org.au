@@ -29,14 +29,14 @@
         <h3><span class="chunk">Events in your area</span></h3>
         <p class="events">
           <span class="chunk">So far events have been planned in:</span>
-            <ul class="chunk">
-              <li><span>Sydney</span></li>
-              <li><span>Melbourne</span></li>
-              <li><span>Brisbane</span></li>
-            </ul>
         </p>
+        <ul class="chunk">
+          <li><span>Sydney</span></li>
+          <li><span>Melbourne</span></li>
+          <li><span>Brisbane</span></li>
+        </ul>
 
-        <p><span class="chunk">Want to see action in your city? See how you can get in touch below.</p>
+        <p><span class="chunk">Want to see action in your city? See how you can get in touch below.</span></p>
       </div>
 
       <div class="box info">
