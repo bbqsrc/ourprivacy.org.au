@@ -15,10 +15,11 @@ License URI: http://creativecommons.org/publicdomain/zero/1.0/
 
 @sans-serif-font: "Open Sans", sans-serif;
 @monospace-font: "DejaVu Sans Mono", "Menlo", "Monaco", "Lucida Console", "Consolas", monospace;
-@dark-fg: #555;
+@dark-fg: #eee;
 @dark-bg: #ddd;
 @link-color: #ddd;
-@light-bg: #fafafa;
+@light-bg: #555;
+@post-bg: #333;
 @email-reply-bg: #f5ffff;
 @underline-color: #d55;
 @widget-title-color: #e55;
@@ -34,6 +35,9 @@ h1 a {
   background-color: #222;
   padding: 0.1em 0.3em; 
   display: inline-block;
+  box-shadow: 2px 2px 1px #888;
+  -moz-box-shadow: 2px 2px 1px #888;
+  -webkit-box-shadow: 2px 2px 1px #888;
 }
 
 body {
@@ -103,7 +107,7 @@ pre.email {
   box-shadow: 0px 0px 5px @dark-bg;
   padding: 1em;
   margin-bottom: 2em;
-  background-color: #fdfdff;
+  background-color: @post-bg;
   border-top: 0.5em solid @post-top;
   
   header {
