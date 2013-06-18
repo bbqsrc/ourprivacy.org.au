@@ -30,9 +30,9 @@
         <p class="events">
           <span class="chunk">So far events have been planned in:</span>
             <ul class="chunk">
-              <li>Sydney</li>
-              <li>Melbourne</li>
-              <li>Brisbane</li>
+              <li><span>Sydney</span></li>
+              <li><span>Melbourne</span></li>
+              <li><span>Brisbane</span></li>
             </ul>
         </p>
 
