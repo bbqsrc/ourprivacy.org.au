@@ -16,19 +16,34 @@
       <h1><a class="chunk" href="http://ourprivacy.org.au">Protect Our Privacy</a></h1>
       <h2><span class="chunk">National Day of Action &mdash; Saturday, 6 July, 2013</span></h2>
       <div class="box warning">
+        <h3>Why is this all about?</h3>
         <p class="background"> 
-          <span class="chunk">[something about NSA metadata etc]</span>
+          <span class="chunk">With the recent NSA and PRISM issue hitting the headlines, we've finally had enough of dragnet surveillance and unjust incursions into the privacy of innocent citizens of Australia. It's time we stood up for our right to privacy.</span>
+        </p>
+        <p class="background"> 
+          <span class="chunk">Actions are being planned all around the country for <strong>July 6</strong>. Get involved!</span>
         </p>
       </div>
       
       <div class="box success">
+        <h3><span class="chunk">Events in your area</span></h3>
         <p class="events">
-          <span class="chunk">Information about events</span>
+          <span class="chunk">
+            So far events have been planned in:
+            <ul>
+              <li>Sydney</li>
+              <li>Melbourne</li>
+              <li>Brisbane</li>
+            </ul>
+          </span>
         </p>
+
+        <p><span class="chunk">Want to see action in your city? Get in touch! Join the list below and <a href="mailto:ourprivacy@lists.pirateparty.org.au">send us an an email</a>.</span></p>
       </div>
 
       <div class="box info">
-        <p><span class="chunk">This website is still being prepared, so join our mailing list for updates and we'll let you know when  content is added to the site and updates on the events in your area!</span></p>
+        <h3><span class="chunk">Keep in touch and up-to-date</span></h3>
+        <p><span class="chunk">This website is still being prepared, so join our mailing list for updates and we'll let you know when content is added to the site and updates on the events in your area!</span></p>
         <p> 
           <form action="http://lists.pirateparty.org.au/cgi-bin/dada/mail.cgi" method="post">
             <input type="hidden" name="list" value="ourprivacy">
