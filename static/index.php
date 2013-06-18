@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <!--[if lt IE 9]><script src="http://ourprivacy.org.au/wp-content/themes/brendan/html5shiv.js"></script><![endif]-->
     <!--[if lt IE 8]>
-<link rel='stylesheet' id='brendan-shit-browsers-css'  href='http://ourprivacy.org.au/wp-content/themes/brendan/shit-browsers.css?ver=0.1' type='text/css' media='all' />
+<link rel='stylesheet' href='http://ourprivacy.org.au/wp-content/themes/brendan/shit-browsers.css?ver=0.1' type='text/css' media='all' />
 <![endif]-->
-    <link rel='stylesheet' id='brendan-style-css'  href='http://ourprivacy.org.au/wp-content/themes/brendan/style.css?ver=0.1' type='text/css' media='all' />
+    <link rel='stylesheet'  href='foo.css?ver=0.1' type='text/css' media='all' />
     
   </head>
   <body>
