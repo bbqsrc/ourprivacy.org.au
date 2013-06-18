@@ -41,7 +41,7 @@
       </div>
       <div class="box supporters">
         <h3><span class='chunk'>Supporters</span></h3>
-        <ul class='chunk'>
+        <ul>
           <li><a href="http://pirateparty.org.au" class="btn">Pirate Party Australia</a></li>
         </ul>
       </div>
