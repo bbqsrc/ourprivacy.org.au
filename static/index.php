@@ -36,7 +36,7 @@
             </ul>
         </p>
 
-        <p><span class="chunk">Want to see action in your city? Get in touch! Join the list below and <a href="mailto:ourprivacy@lists.pirateparty.org.au">send us an an email</a>.</span></p>
+        <p><span class="chunk">Want to see action in your city? See how you can get in touch below.</p>
       </div>
 
       <div class="box info">
@@ -53,6 +53,8 @@
             </div>
           </form>
         </p>
+        <p><span class="chunk">You can also join our chat room and speak to us directly about the action.</span></p>
+        <div class='center'><a href="http://pirateparty.org.au/irc" class="btn green">Go to chatroom</a></div>
       </div>
       <div class="box supporters">
         <h3><span class='chunk'>Supporters</span></h3>
