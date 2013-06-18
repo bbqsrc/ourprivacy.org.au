@@ -17,6 +17,7 @@ License URI: http://creativecommons.org/publicdomain/zero/1.0/
 @monospace-font: "DejaVu Sans Mono", "Menlo", "Monaco", "Lucida Console", "Consolas", monospace;
 @dark-fg: #555;
 @dark-bg: #ddd;
+@link-color: #ddd;
 @light-bg: #fafafa;
 @email-reply-bg: #f5ffff;
 @underline-color: #d55;
@@ -25,6 +26,14 @@ License URI: http://creativecommons.org/publicdomain/zero/1.0/
 
 .screen-reader-text {
   display: none;
+}
+
+h1, h2, h3,
+h1 a {
+  color: @link-color;
+  background-color: #222;
+  padding: 0.1em 0.3em; 
+  display: inline-block;
 }
 
 body {
@@ -36,7 +45,7 @@ body {
 }
 
 a {
-  color: #666;
+  color: @link-color;
   text-decoration: none;
 }
 
