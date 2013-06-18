@@ -16,19 +16,24 @@
       <h1><a class="chunk" href="http://ourprivacy.org.au">Protect Our Privacy</a></h1>
       <h2><span class="chunk">National Day of Action &mdash; Saturday, July 6</span></h2>
 
-      <p><span class="chunk">[something about NSA metadata etc]</span></p>
+      <p class="background"> 
+        <span class="chunk">[something about NSA metadata etc]</span>
+      </p>
 
-      <p><span class="chunk">Information about events</span></p>
+      <p class="events">
+        <span class="chunk">Information about events</span>
+      </p>
 
-      <p><span class="chunk">This website is still being prepared, so join our mailing list for updates and we'll let you know when  content is added to the site and updates on the events in your area!</span></p>
+      <div class="email-box">
+        <p><span class="chunk">This website is still being prepared, so join our mailing list for updates and we'll let you know when  content is added to the site and updates on the events in your area!</span></p>
 
-      <form action="http://lists.pirateparty.org.au/cgi-bin/dada/mail.cgi" method="post">
-      <input type="hidden" name="list" value="ourprivacy">
-      <input type="hidden" name="f" value="subscribe">
-      <label>Email: <input type="email" name="email"></label>
-      <input type="submit">
-      </form>
-
+        <form action="http://lists.pirateparty.org.au/cgi-bin/dada/mail.cgi" method="post">
+          <input type="hidden" name="list" value="ourprivacy">
+          <input type="hidden" name="f" value="subscribe">
+          <label>Email: <input type="email" name="email"></label>
+          <input type="submit">
+        </form>
+      </div>
     </div>
   </body>
 </html>
