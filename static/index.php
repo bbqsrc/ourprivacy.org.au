@@ -35,7 +35,7 @@
             <input type="hidden" name="f" value="subscribe">
             <label style="display: none" for="email">Email</label>
             <input type="email" name="email" id="email" placeholder="email@address.com"> 
-            <input type="submit" class='btn' value="Subscribe!">
+            <input type="submit" class='btn green' value="Subscribe!">
           </form>
         </p>
       </div>
