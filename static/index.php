@@ -16,9 +16,9 @@
       <h1><a class="chunk" href="http://ourprivacy.org.au">Protect Our Privacy</a></h1>
       <h2><span class="chunk">National Day of Action &mdash; Saturday, 6 July, 2013</span></h2>
       <div class="box warning">
-        <h3><span class="chunk">Who is this all about?</span></h3>
+        <h3><span class="chunk">What is this all about?</span></h3>
         <p> 
-          <span class="chunk">Over the last few weeks the scandals and revelations have kept coming. As the scale of the United States' secret surveillance apparatus is slowly being revealed to the world. What we see now is a dragnet spying operation targeting everyone. You, your family, your friends, community groups, religious organisation, activists and political parties from all over the world.</span>
+          <span class="chunk">Over the last few weeks the scandals and revelations have kept coming. As the scale of the United States' secret surveillance apparatus is slowly being revealed to the world. What we see now is a dragnet spying operation targeting everyone. You, your family, your friends, community groups, religious organisations, activists and political parties from all over the world.</span>
         </p>
 
         <p> 
