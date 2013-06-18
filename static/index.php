@@ -54,7 +54,7 @@
           </form>
         </p>
         <p><span class="chunk">You can also join our chat room and speak to us directly about the action.</span></p>
-        <div class='center'><a href="http://pirateparty.org.au/irc" class="btn green">Go to chatroom</a></div>
+        <p class='center'><a href="http://pirateparty.org.au/irc" class="btn green">Go to chatroom</a></p>
       </div>
       <div class="box supporters">
         <h3><span class='chunk'>Supporters</span></h3>
