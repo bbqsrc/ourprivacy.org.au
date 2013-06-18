@@ -42,7 +42,6 @@
       <div class="box info">
         <h3><span class="chunk">Keep in touch and up-to-date</span></h3>
         <p><span class="chunk">This website is still being prepared, so join our mailing list for updates and we'll let you know when content is added to the site and updates on the events in your area!</span></p>
-        <p> 
           <form action="http://lists.pirateparty.org.au/cgi-bin/dada/mail.cgi" method="post">
             <input type="hidden" name="list" value="ourprivacy">
             <input type="hidden" name="f" value="subscribe">
@@ -52,7 +51,6 @@
               <input type="submit" class='btn green' value="Subscribe!">
             </div>
           </form>
-        </p>
         <p><span class="chunk">You can also join our chat room and speak to us directly about the action.</span></p>
         <p class='center'><a href="http://pirateparty.org.au/irc" class="btn green">Go to chatroom</a></p>
       </div>
