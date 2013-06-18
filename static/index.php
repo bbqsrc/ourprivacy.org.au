@@ -35,14 +35,14 @@
             <input type="hidden" name="f" value="subscribe">
             <label style="display: none" for="email">Email</label>
             <input type="email" name="email" id="email" placeholder="email@address.com"> 
-            <input type="submit" value="Subscribe!">
+            <input type="submit" class='btn' value="Subscribe!">
           </form>
         </p>
       </div>
       <div class="box supporters">
         <h3><span class='chunk'>Supporters</span></h3>
         <ul class='chunk'>
-          <li>Pirate Party Australia</li>
+          <li><a href="http://pirateparty.org.au" class="btn">Pirate Party Australia</a></li>
         </ul>
       </div>
     </div>
