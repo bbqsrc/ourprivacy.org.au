@@ -34,14 +34,14 @@
             <input type="hidden" name="list" value="ourprivacy">
             <input type="hidden" name="f" value="subscribe">
             <label style="display: none" for="email">Email</label>
-            <input type="email" name="email" id="email" placeholder="your@email.com"><br> 
+            <input type="email" name="email" id="email" placeholder="email@address.com"> 
             <input type="submit" value="Subscribe!">
           </form>
         </p>
       </div>
       <div class="box supporters">
         <h3><span class='chunk'>Supporters</span></h3>
-        <ul>
+        <ul class='chunk'>
           <li>Pirate Party Australia</li>
         </ul>
       </div>
