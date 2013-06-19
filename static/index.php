@@ -84,7 +84,6 @@ var owa_baseUrl = 'http://analytics.brendan.so/owa/';
 var owa_cmds = owa_cmds || [];
 owa_cmds.push(['setSiteId', 'b1976f90eeb6e2ea9c908eb4f9a13094']);
 owa_cmds.push(['trackPageView']);
-owa_cmds.push(['trackClicks']);
 
 (function() {
 	var _owa = document.createElement('script'); _owa.type = 'text/javascript'; _owa.async = true;
