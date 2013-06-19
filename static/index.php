@@ -17,7 +17,7 @@
       <h2><span class="chunk">National Day of Action &mdash; Saturday, 6 July, 2013</span></h2>
       <div class="box warning">
         <p> 
-          <span class="chunk">Over the last few weeks the scandals and revelations have kept coming. As the scale of the United States' secret surveillance apparatus is slowly being revealed to the world. What we see now is a dragnet spying operation targeting everyone. You, your family, your friends, community groups, religious organisations, activists and political parties from all over the world.</span>
+          <span class="chunk">Over the last few weeks the scandals and revelations have kept coming, as the scale of the <strong>United States' secret surveillance apparatus</strong>, such as <strong>NSA PRISM</strong>, is slowly being revealed to the world. What we see now is a <strong>dragnet spying</strong> operation targeting <strong>everyone</strong>: you, your family, your friends, community groups, religious organisations, activists and political parties from all over the world.</span>
         </p>
 
         <p> 
