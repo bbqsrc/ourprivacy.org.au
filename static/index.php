@@ -61,8 +61,20 @@
       <div class="box supporters">
         <h3><span class='chunk'>Supporters</span></h3>
         <ul>
-          <li><a href="http://pirateparty.org.au" class="btn">Pirate Party Australia</a></li>
+          <li>
+            <a href="http://pirateparty.org.au" class="btn" title="Pirate Party Australia">
+              <img src="img/ppau.png" alt="Pirate Party Australia">
+            </a>
+          </li>
+          <li>
+            <a href="http://scott-ludlam.greensmps.org.au/campaigns/prism-break" class="btn" title="The Greens">
+              <img src="img/greens.png" alt="The Greens">
+            </a>
+          </li>
         </ul>
+        <div style="clear: both; text-align: right">
+          <a style="font-size: 75%; padding: 0 0.4em; margin-top: 1em;" class="btn" href="http://brendan.so">Website by Brendan Molloy</a>
+        </div>
       </div>
     </div>
 <!-- Start Open Web Analytics Tracker -->
