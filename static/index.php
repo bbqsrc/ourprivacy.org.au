@@ -2,13 +2,13 @@
 <html lang='en'>
   <head>
     <meta charset="utf-8">
-    <title>Protect Our Privacy - National Day of Action, Saturday July 6</title>
+    <title>Protect Our Privacy - National Day of Action - 6 July, 2013</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <!--[if lt IE 9]><script src="http://ourprivacy.org.au/wp-content/themes/brendan/html5shiv.js"></script><![endif]-->
     <!--[if lt IE 8]>
 <link rel='stylesheet' href='http://ourprivacy.org.au/wp-content/themes/brendan/shit-browsers.css?ver=0.1' type='text/css' media='all' />
 <![endif]-->
-    <link rel='stylesheet'  href='foo.css?ver=0.1' type='text/css' media='all' />
+    <link rel='stylesheet'  href='foo.css?ver=20080620' type='text/css' media='all' />
     
   </head>
   <body>
@@ -69,6 +69,11 @@
           <li>
             <a href="http://scott-ludlam.greensmps.org.au/campaigns/prism-break" class="btn" title="The Greens">
               <img src="img/greens.png" alt="The Greens">
+            </a>
+          </li>
+          <li>
+            <a href="http://efa.org.au" class="btn" title="Electronic Frontiers Australia">
+              <img src="img/efa.png" alt="Electronic Frontiers Australia">
             </a>
           </li>
         </ul>
