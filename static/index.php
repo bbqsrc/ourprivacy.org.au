@@ -73,7 +73,7 @@
           </li>
           <li>
             <a href="http://efa.org.au" class="btn" title="Electronic Frontiers Australia">
-              <img src="img/efa.png" alt="Electronic Frontiers Australia">
+              <img style="background-color:white; padding:6px" src="img/efa.png" alt="Electronic Frontiers Australia">
             </a>
           </li>
         </ul>
