@@ -9,7 +9,7 @@
 <link rel='stylesheet' href='http://ourprivacy.org.au/wp-content/themes/brendan/shit-browsers.css?ver=0.1' type='text/css' media='all' />
 <![endif]-->
     <link rel='stylesheet'  href='foo.css?ver=20080620-1' type='text/css' media='all'>
-    <link rel="image_src" href="img/logo.png">
+    <link rel="image_src" href="http://ourprivacy.org.au/img/logo.png">
   </head>
   <body>
     <div id="page">
