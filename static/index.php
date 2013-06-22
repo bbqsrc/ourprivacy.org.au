@@ -76,6 +76,16 @@
               <img style="background-color:white; padding:6px" src="img/efa.png" alt="Electronic Frontiers Australia">
             </a>
           </li>
+          <li>
+            <a href="http://sawcsydney.org" class="btn" title="SAWC">
+              <img src="img/sawcsydney.png" alt="SAWC">
+            </a>
+          </li>
+          <li>
+            <a href="http://waca.net.au" class="btn" title="WikiLeaks Australian Citizens Alliance">
+              <img  src="img/waca.png" alt="WikiLeaks Australian Citizens Alliance">
+            </a>
+          </li>
         </ul>
         <div style="clear: both; text-align: right">
           <a style="font-size: 75%; padding: 0 0.4em; margin-top: 1em;" class="btn" href="http://brendan.so">Website by Brendan Molloy</a>
