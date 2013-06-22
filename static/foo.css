@@ -116,6 +116,7 @@ abbr:hover {
 
 .btn {
   margin-left: 4px;
+  margin-bottom: 4px;
     border: none;
     padding: 0.5em;
     color: white;
