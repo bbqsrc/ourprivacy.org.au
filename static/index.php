@@ -83,7 +83,12 @@
           </li>
           <li>
             <a href="http://waca.net.au" class="btn" title="WikiLeaks Australian Citizens Alliance">
-              <img  src="img/waca.png" alt="WikiLeaks Australian Citizens Alliance">
+              <img src="img/waca.png" alt="WikiLeaks Australian Citizens Alliance">
+            </a>
+          </li>
+          <li>
+            <a href="http://wikileaksparty.org.au" class="btn" title="WikiLeaks Party">
+              <img src="img/wlp.png" alt="WikiLeaks Party">
             </a>
           </li>
         </ul>
