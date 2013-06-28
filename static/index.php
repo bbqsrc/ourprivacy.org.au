@@ -91,6 +91,11 @@
               <img src="img/wlp.png" alt="WikiLeaks Party">
             </a>
           </li>
+          <li>
+            <a href="http://www.socialist-alliance.org/" class="btn" title="Socialist Alliance">
+              <img style="background-color:white; padding:6px" src="img/sa.jpg" alt="Socialist Alliance">
+            </a>
+          </li>
         </ul>
         <div style="clear: both; text-align: right">
           <a style="font-size: 75%; padding: 0 0.4em; margin-top: 1em;" class="btn" href="http://brendan.so">Website by Brendan Molloy</a>
