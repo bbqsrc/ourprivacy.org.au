@@ -29,12 +29,12 @@
         </p>
       </div>
         
+      <div class="box success">
+        <h3><span class="chunk">Events in your area</span></h3>
       <p>
         <span class="chunk">Click any of the events below to go to their Facebook page.</span>
       </p>
       
-      <div class="box success">
-        <h3><span class="chunk">Events in your area</span></h3>
         <ul class="chunk">
           <li><a href="https://www.facebook.com/events/394296017358470/">
             <span>Sydney</span><br>
