@@ -28,6 +28,10 @@
           <span class="chunk">Actions are being planned on <strong>July 6</strong> all around Australia. Get involved!</span>
         </p>
       </div>
+        
+      <p>
+        <span class="chunk">Click any of the events below to go to their Facebook page.</span>
+      </p>
       
       <div class="box success">
         <h3><span class="chunk">Events in your area</span></h3>
@@ -49,9 +53,6 @@
             <span>1:30pm, Perth Cultural Centre, James St Mall, Northbridge</span></a>
           </li>
         </ul>
-        <p class="events">
-          <span class="chunk">More information will be available soon.</span>
-        </p>
 
         <p><span class="chunk">Want to see action in your city? Join the list below and send us an email.</span></p>
       </div>
