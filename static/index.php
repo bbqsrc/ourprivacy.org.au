@@ -8,7 +8,7 @@
     <!--[if lt IE 8]>
 <link rel='stylesheet' href='http://ourprivacy.org.au/wp-content/themes/brendan/shit-browsers.css?ver=0.1' type='text/css' media='all' />
 <![endif]-->
-    <link rel='stylesheet'  href='foo.css?ver=20080622' type='text/css' media='all'>
+    <link rel='stylesheet'  href='foo.css?ver=20080701' type='text/css' media='all'>
     <link rel="image_src" href="http://ourprivacy.org.au/img/logo.png">
   </head>
   <body>
@@ -32,9 +32,22 @@
       <div class="box success">
         <h3><span class="chunk">Events in your area</span></h3>
         <ul class="chunk">
-          <li><span>Sydney</span></li>
-          <li><span>Melbourne</span></li>
-          <li><span>Brisbane</span></li>
+          <li><a href="https://www.facebook.com/events/394296017358470/">
+            <span>Sydney</span><br>
+            <span>1pm, Pitt St Mall</span></a>
+          </li>
+          <li><a href="https://www.facebook.com/events/395544690555198/">
+            <span>Melbourne</span><br>
+            <span>1pm, State Library, Swanston St</span></a>
+          </li>
+          <li><a href="https://www.facebook.com/events/592743877424057/">
+            <span>Brisbane</span><br>
+            <span>1pm, Brisbane Square, George St</span></a>
+          </li>
+          <li><a href="https://www.facebook.com/events/330446710421369/">
+            <span>Perth</span><br>
+            <span>1:30pm, Perth Cultural Centre, James St Mall, Northbridge</span></a>
+          </li>
         </ul>
         <p class="events">
           <span class="chunk">More information will be available soon.</span>

@@ -85,6 +85,10 @@ form input { text-align: center; }
   box-sizing: border-box;
 }
 
+.success li {
+  margin-top: 0.5em;
+}
+
 body {
   padding: 0;
   margin: 0;
