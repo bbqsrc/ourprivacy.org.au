@@ -110,6 +110,11 @@
               <img style="background-color:white; padding:6px" src="img/sa.jpg" alt="Socialist Alliance">
             </a>
           </li>
+          <li>
+            <a href="http://sexparty.org.au/" class="btn" title="Sex Party">
+              <img src="img/asp.png" alt="Sex Party">
+            </a>
+          </li>
         </ul>
         <div style="clear: both; text-align: right">
           <a style="font-size: 75%; padding: 0 0.4em; margin-top: 1em;" class="btn" href="http://brendan.so">Website by Brendan Molloy</a>
