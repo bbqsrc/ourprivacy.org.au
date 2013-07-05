@@ -117,6 +117,11 @@
               <img src="img/asp.png" alt="Sex Party">
             </a>
           </li>
+          <li>
+            <a href="http://lamington.org.au/" class="btn" title="Lamington Party">
+              <img src="img/lamington.png" alt="Sex Party">
+            </a>
+          </li>
         </ul>
         <div style="clear: both; text-align: right">
           <a style="font-size: 75%; padding: 0 0.4em; margin-top: 1em;" class="btn" href="http://brendan.so">Website by Brendan Molloy</a>
