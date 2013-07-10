@@ -83,7 +83,7 @@
             </a>
           </li>
           <li>
-            <a href="http://scott-ludlam.greensmps.org.au/campaigns/prism-break" class="btn" title="The Greens">
+            <a href="http://scott-ludlam.greensmps.org.au/prism" class="btn" title="The Greens">
               <img src="img/greens.png" alt="The Greens">
             </a>
           </li>
