@@ -16,11 +16,11 @@
       <h1><a class="chunk" href="http://ourprivacy.org.au">Protect Our Privacy</a></h1>
       <h2><span class="chunk">National Day of Action &mdash; Saturday, 6 July, 2013</span></h2>
       <div class="box warning">
-        <p> 
+        <p>
           <span class="chunk">Over the last few weeks the scandals and revelations have kept coming, as the scale of the <strong>United States' secret surveillance apparatus</strong>, such as <strong>NSA PRISM</strong>, is slowly being revealed to the world. What we see now is a <strong>dragnet spying</strong> operation targeting <strong>everyone</strong>: you, your family, your friends, community groups, religious organisations, activists and political parties from all over the world.</span>
         </p>
 
-        <p> 
+        <p>
           <span class="chunk">Privacy is still a fundamental human right in the information age. It protects our dignity from those who would wish us harm and prevents the state from intruding into our lives. Privacy gives us the freedom to live our lives the way we want to and we need to defend it!</span>
         </p>
 
@@ -28,31 +28,33 @@
           <span class="chunk">Actions are being planned on <strong>July 6</strong> all around Australia. Get involved!</span>
         </p>
       </div>
-        
+       
       <div class="box success">
         <h3><span class="chunk">Events in your area</span></h3>
       <p>
-        <span class="chunk">Click any of the events below to go to their Facebook page.</span>
+        <span class="chunk">First AFK Meetings to organise protests for August 24</span>
       </p>
-      
+     
         <ul class="chunk">
-          <li><a href="https://www.facebook.com/events/394296017358470/">
             <span>Sydney</span><br>
-            <span>1pm, Pitt St Mall</span></a>
-          </li>
-          <li><a href="https://www.facebook.com/events/395544690555198/">
+            <span>1pm, Saturday July 27, Paragon Hotel, Circular Quay</span>
+         
+        <p>
             <span>Melbourne</span><br>
-            <span>1pm, State Library, Swanston St</span></a>
-          </li>
-          <li><a href="https://www.facebook.com/events/592743877424057/">
+            <span>1pm Saturday July 27, Mail Exchange Hotel </span>
+         
+          </p>
             <span>Brisbane</span><br>
-            <span>1pm, Brisbane Square, George St</span></a>
-          </li>
-          <li><a href="https://www.facebook.com/events/330446710421369/">
+            <span>1pm Saturday July 27, The Plough Inn South Bank</span>
+        
+          <p>
+            <span>Adelaide</span><br>
+            <span>1pm Saturday July 27, Wheatsheaf Hotel, George Street, Thebarton (BYO Food to share)</span>
+         </p>
+            <p>
             <span>Perth</span><br>
-            <span>1:30pm, Perth Cultural Centre, James St Mall, Northbridge</span></a>
-          </li>
-        </ul>
+            <span>1pm Saturday July 27, Perth Cultural Centre
+        </span></p></ul>
 
         <p><span class="chunk">Want to see action in your city? Join the list below and send us an email.</span></p>
       </div>
@@ -62,20 +64,20 @@
 
         <p><span class="chunk">This website is still being prepared, so join our mailing list for updates and we'll let you know when content is added to the site and updates on the events in your area!</span></p>
           <form action="http://lists.pirateparty.org.au/cgi-bin/dada/mail.cgi" method="post">
-            <input type="hidden" name="list" value="ourprivacy">
-            <input type="hidden" name="f" value="subscribe">
+            <input name="list" value="ourprivacy" type="hidden">
+            <input name="f" value="subscribe" type="hidden">
             <label style="display: none" for="email">Email</label>
             <div class="center">
-              <input type="email" name="email" id="email" placeholder="email@address.com"> 
-              <input type="submit" class='btn green' value="Subscribe!">
+              <input name="email" id="email" placeholder="email@address.com" type="email">
+              <input class="btn green" value="Subscribe!" type="submit">
             </div>
           </form>
         <p><span class="chunk">You can also join our chat room and speak to us directly about the action.</span></p>
-        <p class='center'><a href="http://pirateparty.org.au/irc" class="btn green">Go to chatroom</a></p>
+        <p class="center"><a href="http://pirateparty.org.au/irc" class="btn green">Go to chatroom</a></p>
         <p><span class="chunk"><strong>MEDIA CONTACT:</strong> <a href="mailto:simon.frew@pirateparty.org.au">Simon Frew</a> (0439 408 314)</span></p>
       </div>
       <div class="box supporters">
-        <h3><span class='chunk'>Supporters</span></h3>
+        <h3><span class="chunk">Supporters</span></h3>
         <ul>
           <li>
             <a href="http://pirateparty.org.au" class="btn" title="Pirate Party Australia">
