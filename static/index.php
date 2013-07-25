@@ -36,25 +36,27 @@
       </p>
      
         <ul class="chunk">
+          <li>
             <span>Sydney</span><br>
             <span>1pm, Saturday July 27, Paragon Hotel, Circular Quay</span>
-         
-        <p>
+          </li>
+          <li>
             <span>Melbourne</span><br>
             <span>1pm Saturday July 27, Mail Exchange Hotel </span>
-         
-          </p>
+          </li>
+          <li>
             <span>Brisbane</span><br>
             <span>1pm Saturday July 27, The Plough Inn South Bank</span>
-        
-          <p>
+          </li>
+          <li>
             <span>Adelaide</span><br>
             <span>1pm Saturday July 27, Wheatsheaf Hotel, George Street, Thebarton (BYO Food to share)</span>
-         </p>
-            <p>
+          </li>
+          <li>
             <span>Perth</span><br>
-            <span>1pm Saturday July 27, Perth Cultural Centre
-        </span></p></ul>
+            <span>1pm Saturday August 10, Perth Cultural Centre</span>
+          </li>
+        </ul>
 
         <p><span class="chunk">Want to see action in your city? Join the list below and send us an email.</span></p>
       </div>
